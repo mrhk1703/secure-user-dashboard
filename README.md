@@ -35,8 +35,8 @@ Follow these steps to set up the project locally:
 ## 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/mrhk1703/secure-user-dashboard.git
+   cd secure-user-dashboard
 ```
 
 ## 2. Install the dependencies:
